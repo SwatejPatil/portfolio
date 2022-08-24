@@ -14,6 +14,8 @@ function App() {
       <Portfolio />
       <div className="container">
         <Routes>
+          <Route path="" element={<Home />} />
+          <Route path="/portfolio" element={<Home />} />
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
@@ -23,9 +25,9 @@ function App() {
           <Route path="/publications" element={<Publications />} />
         </Routes>
         <div className="sidePanel">
-        <SidePanel />
+          <SidePanel />
         </div>
-        
+
       </div>
     </>
   )
