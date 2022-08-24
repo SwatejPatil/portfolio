@@ -34,12 +34,6 @@ export default function Projects() {
           Developed a machine learning model for malware detection with a 95% accuracy.<br/>
           Implemented Random Forest Classifier, EtraTree Classifier and Gradient Boosting Classifier.<br/>
           <br/>
-          Sep 2020/Nov 2020<br/>
-          Online Pharmacy Management System(OPMS)<br/>
-          Tools/Technologies Used: JavaScript, HTML, CSS, MySQL<br/>
-          Created an Online Pharmacy Management System (OPMS) utilizing HTML/CSS and MySQL database system, and used WAMP server to host the database.<br/>
-          Users may log in or establish an account, see their purchase history and status, submit orders, and view the prescriptions they have picked in their shopping basket.<br/>
-          <br/>
           Mar 2020/Apr 2020<br/>
           Fake Currency Detection<br/>
           Tools/Technologies Used: Python, Jupiter Notebook<br/>
